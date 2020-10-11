@@ -1,3 +1,5 @@
+Q3: The previous results from the for loop are garbage, the last result is not garbage.
+
 Q4:
 witch: x = 1, y = 1
 witch: x = 10, y = 0
